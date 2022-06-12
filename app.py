@@ -1,4 +1,3 @@
-from tkinter import VERTICAL
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -13,7 +12,6 @@ import math
 import matplotlib.pyplot as plt
 import os
 import pathlib
-from IPython.display import display, HTML
 
 
 # Full size page
